@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20009895838",
+    "firebase_url": "https://wabao-9050e.firebaseio.com",
+    "project_id": "wabao-9050e",
+    "storage_bucket": "wabao-9050e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20009895838:android:af6d75fc6d62cf4d92788f",
+        "android_client_info": {
+          "package_name": "com.smokinmonkey.wabao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20009895838-uqjacac5bn60ooht48lmga97guvpqj5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smokinmonkey.wabao",
+            "certificate_hash": "abd93e4185aeb832237d798fae0796c0c2f6d592"
+          }
+        },
+        {
+          "client_id": "20009895838-n0btn7itaggqmpih8p83s0ki3cg4hg9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ThHnr8oyjHtMFSgtJZF9_Wp-UYwqUQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20009895838-n0btn7itaggqmpih8p83s0ki3cg4hg9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
